@@ -1,6 +1,9 @@
-<p style="text-align:center"><a href="https://wakatime.com/badge/user/bb00c0fe-44b9-40c6-b043-77019e433b47/project/2e691c5b-6d90-4ee7-a3c1-b40f05cd5cc5">
-<img src="https://wakatime.com/badge/user/bb00c0fe-44b9-40c6-b043-77019e433b47/project/2e691c5b-6d90-4ee7-a3c1-b40f05cd5cc5.svg" alt="wakatime">
-</a></p>
+<!-- Centered WakaTime badge -->
+<p align="center">
+  <a href="https://wakatime.com/badge/user/bb00c0fe-44b9-40c6-b043-77019e433b47/project/2e691c5b-6d90-4ee7-a3c1-b40f05cd5cc5">
+    <img src="https://wakatime.com/badge/user/bb00c0fe-44b9-40c6-b043-77019e433b47/project/2e691c5b-6d90-4ee7-a3c1-b40f05cd5cc5.svg" alt="wakatime">
+  </a>
+</p>
 
 # LearnPython Repository
 
