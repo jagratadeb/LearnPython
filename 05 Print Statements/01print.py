@@ -1,5 +1,6 @@
 # Basic Print Statements
 print("Hello, World!")  # Simple text output
+print('Hello, World!')  # Simple text output
 
 # Printing with a variable
 message = "Welcome to Python!"

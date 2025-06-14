@@ -3,7 +3,7 @@ print("Hello, World!")  # This is also a comment
 
 
 # This is a multi-line comment
-# that spans multiple lines
+# that does not span multiple lines
 print("Python is fun!")
 
 
