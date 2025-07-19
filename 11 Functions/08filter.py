@@ -21,4 +21,4 @@ people = [
     {'name':'Jagrata', 'age': 20},
     {'name':'Human', 'age':30}
 ]
-print(list(filter(get_age, people)))
+print(list(filter(get_details, people)))
