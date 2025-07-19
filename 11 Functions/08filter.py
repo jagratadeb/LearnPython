@@ -15,7 +15,7 @@ print(f"Odd List: {odd_list}")
 print(f"Even List: {even_list}")
 
 
-def get_age(person):
+def get_details(person):
     return person['age'] > 25
 people = [
     {'name':'Jagrata', 'age': 20},
