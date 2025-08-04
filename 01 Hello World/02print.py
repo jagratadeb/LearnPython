@@ -8,3 +8,9 @@ print("Mango","Orange","Guava","Banana", sep=",")
 # This snippet prints multiple items on the same line with a custom end character
 print("Mango","Orange","Guava","Banana",end=", ")
 print("Mango","Orange","Guava","Banana")
+
+# This snippet demonstrates different ways to print strings
+print("Fruits")
+print('Fruits')
+print('''Fruits''')
+print("""Fruits""")
