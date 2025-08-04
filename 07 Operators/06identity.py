@@ -1,4 +1,12 @@
 # Identity Operators in Python
+a = "Hello"
+b = "Hello"
+print(f"a is b: {a is b}")       # True (same object in memory)
+
+p = 10
+q = 10
+print(f"p is q: {p is q}")       # True (same value, same object in memory)
+
 
 # Defining two lists
 x = [1, 2, 3]
