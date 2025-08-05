@@ -3,7 +3,7 @@
 
 # LearnPython
 
-This repository contains well-organized examples and explanations of all the fundamental concepts of Python programming. It is designed for beginners and anyone who wants to revise Python basics. Each concept is covered with both code files and Jupyter notebooks for interactive learning.
+This repository contains well-organized examples and explanations of all the fundamental concepts of Python programming. It is designed for beginners and anyone who wants to revise Python basics.
 
 ## Folder Structure
 
@@ -17,12 +17,11 @@ This repository contains well-organized examples and explanations of all the fun
 - [`08 Conditionals`](./08%20Conditionals/): if, if-else, if-elif-else, and ternary operations.
 - [`09 Loops`](./09%20Loops/): for loops, while loops, nested loops, break, continue, pass, and else with loops.
 - [`10 Inbuilt Data Structures`](./10%20Inbuilt%20Data%20Structures/): (To be added) Lists, tuples, dictionaries, and sets.
-- [`jupyter`](./jupyter/): Jupyter notebooks for each topic, allowing interactive exploration.
+- [`11 Functions`](./11%20Functions/): Defining and using functions, parameters, return values, and scope.
 
 ## How to Use
 
 - Browse each folder for Python scripts explaining the concept.
-- Open the corresponding Jupyter notebook in the [`jupyter`](./jupyter/) folder for hands-on practice and explanations.
 - All code is beginner-friendly and well-commented.
 
 ## Getting Started
