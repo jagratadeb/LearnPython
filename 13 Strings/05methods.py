@@ -7,5 +7,6 @@ print(s.find('world'))# 6
 print(s.replace('world', 'Python')) # 'hello Python'
 print(s.isalpha())    # False
 print("123".isdigit())# True
-words = s.split()     # ['hello', 'python']
-joined = '-'.join(words) # 'hello-python'
+words = s.split()     # ['hello', 'world']
+joined = '-'.join(words) # 'hello-world'
+print(joined)         # 'hello-world'
