@@ -1,41 +1,41 @@
 text = "  Hello, Python World! 123 "
 
 # Case conversion
-print("Uppercase:", text.upper())
-print("Lowercase:", text.lower())
-print("Title Case:", text.title())
-print("Swap Case:", text.swapcase())
-print("Capitalized:", text.capitalize())
+print("Uppercase:", text.upper()) # '  HELLO, PYTHON WORLD! 123 '
+print("Lowercase:", text.lower()) # '  hello, python world! 123 '
+print("Title Case:", text.title()) # '  Hello, Python World! 123 '
+print("Swap Case:", text.swapcase()) # '  hELLO, pYTHON wORLD! 123 '
+print("Capitalized:", text.capitalize()) # '  Hello, python world! 123 '
 
 # Whitespace trimming
-print("Stripped:", text.strip())
-print("Left Strip:", text.lstrip())
-print("Right Strip:", text.rstrip())
+print("Stripped:", text.strip()) # 'Hello, Python World! 123'
+print("Left Strip:", text.lstrip()) # 'Hello, Python World! 123 '
+print("Right Strip:", text.rstrip()) # '  Hello, Python World! 123'
 
 # Searching and counting
-print("Count of 'o':", text.count('o'))
-print("Find 'Python':", text.find('Python'))
-print("Index of 'World':", text.index('World'))
+print("Count of 'o':", text.count('o')) # 3
+print("Find 'Python':", text.find('Python')) # 8
+print("Index of 'World':", text.index('World')) # 15
 
 # Validation checks
-print("Is Alphanumeric:", text.isalnum())
-print("Is Alphabetic:", text.isalpha())
-print("Is Digit:", text.isdigit())
-print("Is Lowercase:", text.islower())
-print("Is Uppercase:", text.isupper())
-print("Is Title:", text.istitle())
+print("Is Alphanumeric:", text.isalnum()) # False
+print("Is Alphabetic:", text.isalpha()) # False
+print("Is Digit:", text.isdigit()) # False
+print("Is Lowercase:", text.islower()) # False
+print("Is Uppercase:", text.isupper()) # False
+print("Is Title:", text.istitle()) # False
 
 # Replace and split
-print("Replace 'World' with 'Universe':", text.replace('World', 'Universe'))
-print("Split by space:", text.split())
-print("Splitlines:", "Line1\nLine2".splitlines())
+print("Replace 'World' with 'Universe':", text.replace('World', 'Universe')) # '  Hello, Python Universe! 123 '
+print("Split by space:", text.split()) # ['  Hello,', 'Python', 'World!', '123']
+print("Splitlines:", "Line1\nLine2".splitlines()) # ['Line1', 'Line2']
 
 # Join and justify
-words = ["Python", "is", "fun"]
-print("Joined:", " ".join(words))
-print("Centered:", text.center(40, '-'))
-print("Left Justified:", text.ljust(40, '*'))
-print("Right Justified:", text.rjust(40, '*'))
+words = ["Python", "is", "fun"] # List of words to join
+print("Joined:", " ".join(words)) # 'Python is fun'
+print("Centered:", text.center(40, '-')) # '----------  Hello, Python World! 123 ----------'
+print("Left Justified:", text.ljust(40, '*')) # '  Hello, Python World! 123 ***************'
+print("Right Justified:", text.rjust(40, '*')) # '***************  Hello, Python World! 123'
 
 # Encoding and translation
 encoded = text.encode()
