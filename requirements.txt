@@ -1,5 +1,3 @@
 ipykernel
 numpy
-customtkinter
-ttkthemes
-Pillow
+pandas
