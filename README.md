@@ -18,6 +18,13 @@ This repository contains well-organized examples and explanations of all the fun
 - [`09 Loops`](./09%20Loops/): for loops, while loops, nested loops, break, continue, pass, and else with loops.
 - [`10 Inbuilt Data Structures`](./10%20Inbuilt%20Data%20Structures/): (To be added) Lists, tuples, dictionaries, and sets.
 - [`11 Functions`](./11%20Functions/): Defining and using functions, parameters, return values, and scope.
+- [`12 In Built Modules`](./12%20In%20Built%20Modules/): Using Python's standard library modules.
+- [`13 Strings`](./13%20Strings/): String manipulation and methods.
+- [`14 OOPs`](./14%20OOPs/): Object-oriented programming concepts in Python.
+- [`15 GUI`](./15%20GUI/): Creating graphical user interfaces with Tkinter.
+- [`16 NumPy`](./16%20NumPy/): (Basic) Numerical computing with Python.
+- [`17 Pandas`](./17%20Pandas/): (Basic) Data manipulation and analysis with Pandas.
+- [`18 SQLite3`](./18%20SQLite3/): (Basic) Working with SQLite databases in Python.
 
 ## How to Use
 
