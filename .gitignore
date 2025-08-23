@@ -1,5 +1,5 @@
 venv/
 tempCodeRunnerFile.py
 __pycache__/
-studentInfo.db
 .idea/
+*.db
