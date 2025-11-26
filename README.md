@@ -24,7 +24,9 @@ This repository contains well-organized examples and explanations of all the fun
 - [`15 Exception Handling`](./15%20Exception%20Handling/): Handling errors and exceptions in Python.
 - [`16 OOPs`](./16%20OOPs/): Object-oriented programming concepts in Python.
 - [`17 Advanced Python`](./17%20Advanced%20Python/): Iterators, generators, decorators, closures, and function copies.
-- [`18 Data Analysis`](./18%20Data%20Analysis/): Using Pandas and NumPy for data analysis.
+- [`18 Data Analysis`](./18%20Data%20Analysis/): Using Pandas, NumPy, Seaborn and Matplotlib for data analysis.
+- [`19 SQLite3`](./19%20SQLite3/): Working with SQLite databases in Python.
+- [`20 Logging`](./20%20Logging/): Implementing logging in Python applications.
 
 ## How to Use
 
