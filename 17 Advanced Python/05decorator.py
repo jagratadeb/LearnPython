@@ -8,6 +8,7 @@ def my_decorator(func):
 
 # Step 2: Use the decorator
 @my_decorator
+# shorthand for [say_hello = my_decorator(say_hello)]
 def say_hello():
     print("Hello!")
 
