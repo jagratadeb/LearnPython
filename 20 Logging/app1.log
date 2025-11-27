@@ -1,0 +1,5 @@
+2025-11-28 00:40:28 - ArithmeticApp - DEBUG - Adding 10 + 5 = 15
+2025-11-28 00:40:28 - ArithmeticApp - DEBUG - Subtracting 15 - 10 = 5
+2025-11-28 00:40:28 - ArithmeticApp - DEBUG - Multiplying 2 * 10 = 20
+2025-11-28 00:40:28 - ArithmeticApp - DEBUG - Dividing 20 / 10 = 2.0
+2025-11-28 00:40:28 - ArithmeticApp - ERROR - Division by zero attempted: 20 / 0
