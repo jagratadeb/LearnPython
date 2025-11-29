@@ -22,6 +22,11 @@ def form():
         return f"Hello {name}!"
     return render_template("form.html")
 
+@app.route('/submit',methods=['GET','POST'])
+def submit():
+    name = request.form['name']
+    return f"<h1>Hello!! {name}!</h1>"
+
 
 if __name__ == "__main__":
     app.run(debug=True)
