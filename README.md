@@ -27,6 +27,8 @@ This repository contains well-organized examples and explanations of all the fun
 - [`18 Data Analysis`](./18%20Data%20Analysis/): Using Pandas, NumPy, Seaborn and Matplotlib for data analysis.
 - [`19 SQLite3`](./19%20SQLite3/): Working with SQLite databases in Python.
 - [`20 Logging`](./20%20Logging/): Implementing logging in Python applications.
+- [`21 Multi Threading and Processing`](./21%20Multi%20Threading%20and%20Processing/): Concurrency in Python using threading and multiprocessing. 
+- [`22 Memory Management`](./22%20Memory%20Management/): Understanding memory management in Python.
 
 ## How to Use
 
