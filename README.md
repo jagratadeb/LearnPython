@@ -29,6 +29,9 @@ This repository contains well-organized examples and explanations of all the fun
 - [`20 Logging`](./20%20Logging/): Implementing logging in Python applications.
 - [`21 Multi Threading and Processing`](./21%20Multi%20Threading%20and%20Processing/): Concurrency in Python using threading and multiprocessing. 
 - [`22 Memory Management`](./22%20Memory%20Management/): Understanding memory management in Python.
+- [`23 Flask`](./23%20Flask/): Building web applications using Flask framework.
+- [`24 Streamlit Web Framework`](./24%20Streamlit%20Web%20Framework/): Creating interactive web apps with Streamlit.
+
 
 ## How to Use
 
